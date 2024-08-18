@@ -13,6 +13,7 @@ export const Content = styled.button`
   border: 1px solid white;
   min-height: 40px;
   min-width: 100px;
+  font-weight: 600;
 
   &:hover {
     transition: all 0.5s;
